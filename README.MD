@@ -10,19 +10,20 @@ _{This is a program designed to convert numbers into a range of numbers, ranging
 
 ## Setup/Installation Requirements
 
-* _Github_
-* _Gitbash_
-* _Atom_
+* _Download GitBash_
+* _Download Atom_
+* _Set up an account on GitHub_
+* _Set up a repository on GitHub_
+* _Create HTML files, JavaScript and CSS stylesheets as needed_
 
-_{You will need a computer, create a Github account, and download Atom}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{None known but let me know if you find any.}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{if you have any concerns, or have constructive feedback, please contact me at sadeghazizi112@some-email.com.}_
 
 ## Technologies Used
 
@@ -31,9 +32,12 @@ _{Let people know what to do if they run into any issues or have questions, idea
 * _Javascript_
 * _Gitbash_
 * _Atom_
+* _Bootstrap_
 
 ### License
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2018 **_{Github, Epicodus, Atom}_**
+Copyright (c) 2018 **_{Github, Epicodus, Atom, Bootstrap}_**
+
+Password to Github: T1tan123
