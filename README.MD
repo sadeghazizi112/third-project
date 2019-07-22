@@ -39,5 +39,3 @@ _{if you have any concerns, or have constructive feedback, please contact me at 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
 Copyright (c) 2018 **_{Github, Epicodus, Atom, Bootstrap}_**
-
-Password to Github: T1tan123
